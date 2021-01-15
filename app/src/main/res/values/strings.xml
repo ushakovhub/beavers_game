@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beavers</string>
+    <string name="button_start">Играть</string>
+    <string name="button_start_again">Начать сначала</string>
+</resources>
